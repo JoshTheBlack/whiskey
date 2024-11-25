@@ -6,4 +6,4 @@
 
 🏁: The finish is long and mellow, slightly bitter up front fading into more citrus with whisps of oak. Not super complex, but very enjoyable.  
 
-This is similarly priced with Elijah Craigh Small Batch from Day 2.  For my money, I'd grab that for the complexity and extra abv.
+This is similarly priced with [[12-02 Elijah Craig Small Batch]] from Day 2.  For my money, I'd grab that for the complexity and extra abv.

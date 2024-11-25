@@ -10,6 +10,6 @@ Nope.  Not for me.  As a lifelong hater of all things tea, this hits all the wro
 
 I think this redditor said it best.
 
-![img](images/blog/redditreview.png)
+![[redditreview.png]]
 
 This is my new worst of the bunch, for certain. 
