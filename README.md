@@ -1,1 +1,1 @@
-For my whiskey tasting notes
+For my whiskey tasting notes.
