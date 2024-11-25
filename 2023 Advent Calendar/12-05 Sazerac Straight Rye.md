@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Day 05: Sazerac Straight Rye Whiskey, 45% ABV"
-author: JoshTheBlack
-image: day5.jpg
----
-
+![[day5.jpg]]
 Smells of cherry, vanilla, oak, leather, and mentol with a hint of clove.
 
 Sweet, spice, and citrus at first gives way to caramel, spice and fruit.
