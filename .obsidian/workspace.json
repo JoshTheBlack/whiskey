@@ -60,9 +60,23 @@
               "icon": "lucide-file",
               "title": "12-02 Hibiki Suntory Whisky"
             }
+          },
+          {
+            "id": "bbcaba6e2343f68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Advent Calendar/12-03 Yellow Spot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-03 Yellow Spot"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,11 +242,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da7e551dfe4d2662",
+  "active": "bbcaba6e2343f68b",
   "lastOpenFiles": [
-    "2024 Advent Calendar/12-01 The Dalmore.md",
+    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
+    "2024 Advent Calendar/12-03 Yellow Spot.md",
+    "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
+    "2023 Advent Calendar/12-22 Blackened-Blend.md",
+    "2024 Advent Calendar/12-00 The Calendar.md",
+    "2024 Advent Calendar/12-03.jpg",
     "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-    "2024 Advent Calendar/Coming Soon.md",
+    "2024 Advent Calendar/12-01 The Dalmore.md",
     "Templates/New Drink.md",
     "Untitled",
     "New Text Document.txt",
@@ -258,18 +277,12 @@
     "2023 Advent Calendar/12-04 Michters US1 Small Batch.md",
     "2023 Advent Calendar/12-08 Blantons Original Single Barrel.md",
     "2023 Advent Calendar/12-07 Boulder Spirits American Single Malt.md",
-    "2023 Advent Calendar/12-22 Blackened-Blend.md",
-    "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
     "2023 Advent Calendar/12-20 Wilderness Trail Single Barrel.md",
     "2023 Advent Calendar/12-19 Seelbachs Private Reserve Batch 3.md",
-    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
     "2023 Advent Calendar/Images/redditreview.png",
     "2023 Advent Calendar/12-16 MB Roland Small Batch.md",
-    "2023 Advent Calendar/12-14 James E Pepper 1776 Straight Rye.md",
-    "2023 Advent Calendar/12-13 Buffalo Trace.md",
     "2023 Advent Calendar/Images/day1.jpg",
     "2023 Advent Calendar/Images",
-    "2023 Advent Calendar/Images/day22.jpg",
     "2023 Advent Calendar/images",
     "2024 Advent Calendar",
     "2023 Advent Calendar",
