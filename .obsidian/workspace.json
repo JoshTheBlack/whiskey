@@ -113,12 +113,14 @@
             "id": "b999c892169defc4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/Images/calendar.png"
+                "file": "2024 Advent Calendar/Images/12-03 Yellow Spot.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "calendar"
+              "icon": "lucide-file",
+              "title": "12-03 Yellow Spot"
             }
           }
         ],
@@ -288,11 +290,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cce8af817dffa33b",
+  "active": "b999c892169defc4",
   "lastOpenFiles": [
-    "2024 Advent Calendar/12-03 Yellow Spot.md",
-    "2024 Advent Calendar/12-00 The Calendar.md",
     "2024 Advent Calendar/Images/calendar.png",
+    "2024 Advent Calendar/Images/12-03 Yellow Spot.md",
+    "2024 Advent Calendar/12-00 The Calendar.md",
     "2024 Advent Calendar/Images/12-03.jpg",
     "2024 Advent Calendar/Images/12-02.jpg",
     "2024 Advent Calendar/Images/12-01.jpg",
