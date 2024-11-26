@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "2024 Advent Calendar/Images/2024calendar.png"
+                "file": "2024 Advent Calendar/Images/calendar.png"
               },
               "icon": "lucide-image",
-              "title": "2024calendar"
+              "title": "calendar"
             }
           },
           {
@@ -113,14 +113,12 @@
             "id": "b999c892169defc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "12-03 Yellow Spot.md",
-                "mode": "source",
-                "source": false
+                "file": "2024 Advent Calendar/Images/calendar.png"
               },
-              "icon": "lucide-file",
-              "title": "12-03 Yellow Spot"
+              "icon": "lucide-image",
+              "title": "calendar"
             }
           }
         ],
@@ -292,12 +290,12 @@
   },
   "active": "cce8af817dffa33b",
   "lastOpenFiles": [
+    "2024 Advent Calendar/12-03 Yellow Spot.md",
     "2024 Advent Calendar/12-00 The Calendar.md",
-    "2024 Advent Calendar/Images/2024calendar.png",
+    "2024 Advent Calendar/Images/calendar.png",
     "2024 Advent Calendar/Images/12-03.jpg",
     "2024 Advent Calendar/Images/12-02.jpg",
     "2024 Advent Calendar/Images/12-01.jpg",
-    "12-03 Yellow Spot.md",
     "2024 Advent Calendar/Images",
     "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
     "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
