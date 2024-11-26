@@ -27,7 +27,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "2024 Advent Calendar/2024calendar.png"
+                "file": "2024 Advent Calendar/Images/2024calendar.png"
               },
               "icon": "lucide-image",
               "title": "2024calendar"
@@ -65,18 +65,64 @@
             "id": "bbcaba6e2343f68b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2024 Advent Calendar/12-03 Yellow Spot.md",
-                "mode": "source",
-                "source": false
+                "file": "2024 Advent Calendar/Images/12-01.jpg"
               },
-              "icon": "lucide-file",
-              "title": "12-03 Yellow Spot"
+              "icon": "lucide-image",
+              "title": "12-01"
+            }
+          },
+          {
+            "id": "4045570b369d1e2e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2024 Advent Calendar/Images/12-02.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "12-02"
+            }
+          },
+          {
+            "id": "f00fc707f1d24a49",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2024 Advent Calendar/Images/12-03.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "12-03"
+            }
+          },
+          {
+            "id": "93ffbd8ed55c90a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2024 Advent Calendar/Images/12-03.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "12-03"
+            }
+          },
+          {
+            "id": "b999c892169defc4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2024 Advent Calendar/Images/2024calendar.png"
+              },
+              "icon": "lucide-image",
+              "title": "2024calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -242,23 +288,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbcaba6e2343f68b",
+  "active": "cce8af817dffa33b",
   "lastOpenFiles": [
-    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
+    "2024 Advent Calendar/Images/12-03.jpg",
+    "2024 Advent Calendar/Images/2024calendar.png",
+    "2024 Advent Calendar/Images/12-02.jpg",
+    "2024 Advent Calendar/Images/12-01.jpg",
     "2024 Advent Calendar/12-03 Yellow Spot.md",
+    "2024 Advent Calendar/Images",
+    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
     "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
     "2023 Advent Calendar/12-22 Blackened-Blend.md",
     "2024 Advent Calendar/12-00 The Calendar.md",
-    "2024 Advent Calendar/12-03.jpg",
     "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
     "2024 Advent Calendar/12-01 The Dalmore.md",
     "Templates/New Drink.md",
     "Untitled",
     "New Text Document.txt",
-    "2024 Advent Calendar/12-02.jpg",
-    "2024 Advent Calendar/12-01.jpg",
     "2024 Advent Calendar/rc8qkoy8.bmp",
-    "2024 Advent Calendar/2024calendar.png",
     "README.md",
     "Templates/12-01 Balcones 1.md",
     "2023 Advent Calendar/12-01 Balcones.md",
