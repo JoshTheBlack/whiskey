@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -290,7 +290,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b999c892169defc4",
+  "active": "f8ddd639c577a1eb",
   "lastOpenFiles": [
     "2023 Advent Calendar/12-23 Blantons Gold Edition.md",
     "2023 Advent Calendar/12-22 Blackened-Blend.md",
