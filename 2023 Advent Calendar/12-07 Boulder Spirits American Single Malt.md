@@ -10,3 +10,5 @@
 This is all around great if you like scotch.  Great feel in the mouth, with a tail that leaves my mouth watering.  I'd like to see what this is like aged 10 years or more.
 
 Definitely recommend. 
+
+#singlemalt #whiskey #colorado #buy 

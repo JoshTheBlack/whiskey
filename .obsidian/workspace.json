@@ -115,12 +115,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-03 Yellow Spot.md",
+                "file": "2023 Advent Calendar/12-24 Colonel EH Taylor Small Batch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-03 Yellow Spot"
+              "title": "12-24 Colonel EH Taylor Small Batch"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#top3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -290,46 +290,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cce8af817dffa33b",
+  "active": "b999c892169defc4",
   "lastOpenFiles": [
-    "2024 Advent Calendar/Images/calendar.png",
+    "2023 Advent Calendar/12-23 Blantons Gold Edition.md",
+    "2023 Advent Calendar/12-22 Blackened-Blend.md",
+    "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
+    "2023 Advent Calendar/12-20 Wilderness Trail Single Barrel.md",
+    "2023 Advent Calendar/12-19 Seelbachs Private Reserve Batch 3.md",
+    "2023 Advent Calendar/12-07 Boulder Spirits American Single Malt.md",
+    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
+    "2023 Advent Calendar/12-17 Rittenhouse Straight Rye.md",
+    "2023 Advent Calendar/12-16 MB Roland Small Batch.md",
+    "2023 Advent Calendar/12-15 Belmont Farm Kopper Kettle Bonded.md",
+    "2023 Advent Calendar/12-14 James E Pepper 1776 Straight Rye.md",
+    "2023 Advent Calendar/12-02 Elijah Craig Small Batch.md",
+    "2023 Advent Calendar/12-13 Buffalo Trace.md",
+    "2023 Advent Calendar/12-12 Eagle Rare.md",
+    "2023 Advent Calendar/12-11 Sagamore Spirit Double Oak Straight Rye.md",
+    "2023 Advent Calendar/12-10 Four Roses Original.md",
+    "2023 Advent Calendar/12-09 Ezra Brooks Straight Rye.md",
+    "2023 Advent Calendar/12-08 Blantons Original Single Barrel.md",
+    "2023 Advent Calendar/12-06 Daddy Rack.md",
+    "2023 Advent Calendar/12-05 Sazerac Straight Rye.md",
+    "2023 Advent Calendar/12-01 Balcones.md",
+    "2023 Advent Calendar/12-03 Kentucky Peerless Small Batch.md",
+    "2023 Advent Calendar/12-04 Michters US1 Small Batch.md",
     "2024 Advent Calendar/12-03 Yellow Spot.md",
-    "2024 Advent Calendar/12-00 The Calendar.md",
+    "2024 Advent Calendar/12-01 The Dalmore.md",
+    "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
+    "2024 Advent Calendar/Images/calendar.png",
     "2024 Advent Calendar/Images/12-03.jpg",
     "2024 Advent Calendar/Images/12-02.jpg",
     "2024 Advent Calendar/Images/12-01.jpg",
     "2024 Advent Calendar/Images",
-    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
-    "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
-    "2023 Advent Calendar/12-22 Blackened-Blend.md",
-    "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-    "2024 Advent Calendar/12-01 The Dalmore.md",
-    "Templates/New Drink.md",
     "Untitled",
     "New Text Document.txt",
     "2024 Advent Calendar/rc8qkoy8.bmp",
-    "README.md",
-    "Templates/12-01 Balcones 1.md",
-    "2023 Advent Calendar/12-01 Balcones.md",
     "Templates",
     "2024 Advent Calendar/par4wcwf.bmp",
     "2024 Advent Calendar/svzx3pyi.bmp",
     "2024 Advent Calendar/2024calendar.bmp",
-    "2023 Advent Calendar/12-24 Colonel EH Taylor Small Batch.md",
-    "2023 Advent Calendar/12-23 Blantons Gold Edition.md",
-    "2023 Advent Calendar/12-17 Rittenhouse Straight Rye.md",
-    "2023 Advent Calendar/12-15 Belmont Farm Kopper Kettle Bonded.md",
-    "2023 Advent Calendar/12-11 Sagamore Spirit Double Oak Straight Rye.md",
-    "2023 Advent Calendar/12-10 Four Roses Original.md",
-    "2023 Advent Calendar/12-09 Ezra Brooks Straight Rye.md",
-    "2023 Advent Calendar/12-05 Sazerac Straight Rye.md",
-    "2023 Advent Calendar/12-04 Michters US1 Small Batch.md",
-    "2023 Advent Calendar/12-08 Blantons Original Single Barrel.md",
-    "2023 Advent Calendar/12-07 Boulder Spirits American Single Malt.md",
-    "2023 Advent Calendar/12-20 Wilderness Trail Single Barrel.md",
-    "2023 Advent Calendar/12-19 Seelbachs Private Reserve Batch 3.md",
     "2023 Advent Calendar/Images/redditreview.png",
-    "2023 Advent Calendar/12-16 MB Roland Small Batch.md",
     "2023 Advent Calendar/Images/day1.jpg",
     "2023 Advent Calendar/Images",
     "2023 Advent Calendar/images",

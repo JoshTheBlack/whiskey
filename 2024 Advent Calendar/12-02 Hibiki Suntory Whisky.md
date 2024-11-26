@@ -21,3 +21,5 @@ The grain whisky makes up the largest component.
 Overall this is a nice, complex yet subdued pour.  There is a lot of subtlety and balance here.  Very demure.  Again, I think if this was bottled a little hotter than 43% ABV, it would benefit.  I would really like this to have a longer finish.  
 The color really threw me off.  I did not expect to like this as much as I did.
 The best price I've seen local to me is just north of `$100`.  I'd say the value proposition is there, but on the higher end.  If I ever find this under `$80`, I will definitely scoop up a bottle.
+
+#bourbon #whiskey #blend #japanese

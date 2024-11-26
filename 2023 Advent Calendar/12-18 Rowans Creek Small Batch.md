@@ -13,3 +13,5 @@ I think this redditor said it best.
 ![[redditreview.png]]
 
 This is my new worst of the bunch, for certain. 
+
+#whiskey #bourbon #smallbatch #awful

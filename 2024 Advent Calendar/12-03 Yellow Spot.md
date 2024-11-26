@@ -12,3 +12,5 @@
 🏁: Dry and astringent.  Starts with a bit of fruit but is quickly overpowered with the harsh astringency.  
 
 `$200` in my area, `$150` at Total Wine.  This, like last years [[12-21 Willets Pot Still Reserve Single Barrel]] is not my cup of tea.  I don't find it offensive, like I did the [[12-18 Rowans Creek Small Batch]], but I'm learning I just don't love the flavor profile of pot stills, I think.
+
+#bourbon #potstill #topshelf

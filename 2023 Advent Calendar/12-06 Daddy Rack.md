@@ -10,3 +10,5 @@ It doesn't do much to stand out, but at $35 it's a perfectly cromulent option fo
 Interestingly, this is produced in Columbia TN, with corn grown within 50 miles of the distillery.
 
 Has a great looking bottle too.
+
+#whiskey #tennessee #buy 

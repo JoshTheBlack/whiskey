@@ -21,3 +21,4 @@ This is a medium-low complex flavor profile, and the price is very high.  I don'
 
 YMMV, but I don't see myself buying a bottle.
 
+#bourbon #scotch #singlemalt #topshelf
