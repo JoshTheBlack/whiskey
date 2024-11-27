@@ -11,6 +11,6 @@
 
 🏁: Rosewater perfume or potpourri.  Very floral.  Medium long finish filled with bitter mineral notes and a peppery rye.  Reminiscent of espresso beans.  
 
-The nose is like a time capsule in a glass, capturing the essence of a bygone era.  The palate leaves a little to be desired, and the finish while not unpleasant was very lacking.  This is really hurt by it's low octane, even more so than [[12-01 The Dalmore]] and [[12-02 Hibiki Suntory Whisky]].  For a bottle north of `$300`, this is a disappointment.  Or maybe I just have a peasants palate.  
+The nose is like a time capsule in a glass, capturing the essence of a bygone era.  One of the best I could imagine.  The palate leaves a little to be desired, and the finish while not unpleasant was very lacking.  This is really hurt by it's low octane, even more so than [[12-01 The Dalmore]] and [[12-02 Hibiki Suntory Whisky]].  For a bottle north of `$300`, this is a disappointment.  Or maybe I just have a peasants palate.  
 
 #irish #whiskey #singlemalt 
