@@ -171,12 +171,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
+                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-01 The Dalmore"
+              "title": "12-02 Hibiki Suntory Whisky"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
+                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12-01 The Dalmore"
+              "title": "Backlinks for 12-02 Hibiki Suntory Whisky"
             }
           },
           {
@@ -271,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
+                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12-01 The Dalmore"
+              "title": "Outgoing links from 12-02 Hibiki Suntory Whisky"
             }
           },
           {
@@ -348,6 +348,7 @@
   },
   "active": "a73b9cd502fdb1ce",
   "lastOpenFiles": [
+    "2024 Advent Calendar/12-01 The Dalmore.md",
     "2024 Advent Calendar/12-07 Craigellachie.md",
     "2024 Advent Calendar/Images/12-07.jpg",
     "2024 Advent Calendar/12-06 The Sexton.md",
@@ -360,7 +361,6 @@
     "2024 Advent Calendar/12-04 Lagavulin.md",
     "2024 Advent Calendar/12-03 Yellow Spot.md",
     "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-    "2024 Advent Calendar/12-01 The Dalmore.md",
     "2024 Advent Calendar/Images/12-05.jpg",
     "2024 Advent Calendar/Images/12-04.jpg",
     "2023 Advent Calendar/12-23 Blantons Gold Edition.md",

@@ -3,23 +3,22 @@
 ## Japanese Harmony Blended Whisky
 #### 43% ABV
 
-👁: Very light .  Yellow, like peanut oil. Medium thin legs.
+👁: A surprisingly pale liquid with the delicate yellow hue of pure peanut oil. Medium-thin legs cling to the glass, slowly releasing their grip.
 
-👃:  Pepper and mild oak.  Grape and apple.  Barley with shades of molasses and honeysuckle.
+👃:  Intriguing aromas of freshly cracked black pepper mingle with subtle oak nuances. Ripe grapes and crisp apples intertwine with the essence of barley, accented by hints of molasses and the sweet fragrance of honeysuckle.
 
-👅:  Bright and hot up front.  Buttery cream gives way to light citrus and tart apples.  Clove.  Leather.  Very mild oak.  It starts out strong and punchy, passes through sweet and ends with a nice acidic umami
+👅:  A bright, fiery sensation ignites the palate, quickly mellowing into a velvety wave of buttery cream. Notes of light citrus and tart apples emerge, followed by a touch of warm clove and rich leather. The oak influence remains understated, allowing the other flavors to shine. This dram brims with a bold, punchy character, transitions through a delightful sweetness, and culminates in a captivating acidic umami.
 
-🏁: The finish is strong and medium length.  More oak in the finish.  Maple syrup, vanilla, and lemon with lingering spice.  
+🏁: The finish is assertive and of medium length, revealing a more pronounced oak presence. Sweet maple syrup and creamy vanilla intertwine with zesty lemon, leaving a lingering warmth of spice.
 
-Japanese blended whisky.  Some research turns up the malt whisky comes from Yamazaki and Hakushu distilleries, and the grain whisky from Chita.  
-These are drawn from 5 different cask types, though I could only find details on three.
-- American White Oak
-- Sherry
-- Mizunara Oak
-The grain whisky makes up the largest component.  
+This Japanese blended whisky, crafted with malt whiskies from the renowned Yamazaki and Hakushu distilleries and grain whisky from Chita, offers a captivating experience. Matured in five different cask types, including American White Oak, Sherry, and Mizunara Oak, it presents a harmonious blend of flavors.
 
-Overall this is a nice, complex yet subdued pour.  There is a lot of subtlety and balance here.  Very demure.  Again, I think if this was bottled a little hotter than 43% ABV, it would benefit.  I would really like this to have a longer finish.  
-The color really threw me off.  I did not expect to like this as much as I did.
-The best price I've seen local to me is just north of `$100`.  I'd say the value proposition is there, but on the higher end.  If I ever find this under `$80`, I will definitely scoop up a bottle.
+The grain whisky, which comprises the largest component of the blend, contributes to the whisky's overall subtlety and balance. The result is a complex yet subdued pour, characterized by its demure nature and intricate layers of flavor.
+
+While the 43% ABV delivers a pleasant experience, a slightly higher bottling strength could potentially amplify the intensity and complexity. Similarly, a longer finish would further enhance the overall enjoyment.
+
+The exceptionally light color may initially surprise those accustomed to the deeper hues of other whiskies. However, this unique characteristic adds to the intrigue and allure of this exceptional blend.
+
+With an average price hovering around $100, the value proposition leans towards the higher end. However, the complexity, balance, and unique character of this Japanese blended whisky make it a worthwhile consideration for enthusiasts seeking something distinctive. Discovering a bottle priced below $80 would undoubtedly present an irresistible opportunity.
 
 #bourbon #whiskey #blend #japanese
