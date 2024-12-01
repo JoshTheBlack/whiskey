@@ -171,12 +171,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-07 Craigellachie.md",
+                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-07 Craigellachie"
+              "title": "12-01 The Dalmore"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Advent Calendar/12-07 Craigellachie.md",
+                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12-07 Craigellachie"
+              "title": "Backlinks for 12-01 The Dalmore"
             }
           },
           {
@@ -271,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Advent Calendar/12-07 Craigellachie.md",
+                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12-07 Craigellachie"
+              "title": "Outgoing links from 12-01 The Dalmore"
             }
           },
           {
@@ -346,11 +346,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8ddd639c577a1eb",
+  "active": "a73b9cd502fdb1ce",
   "lastOpenFiles": [
+    "2024 Advent Calendar/12-07 Craigellachie.md",
     "2024 Advent Calendar/Images/12-07.jpg",
     "2024 Advent Calendar/12-06 The Sexton.md",
-    "2024 Advent Calendar/12-07 Craigellachie.md",
     "2024 Advent Calendar/Images/12-06.jpg",
     "2024 Advent Calendar/12-05 Bushmills.md",
     "2024 Advent Calendar/Images/Amazon.com - Order 112-2266420-4119442.pdf",
@@ -388,7 +388,6 @@
     "2024 Advent Calendar/rc8qkoy8.bmp",
     "Templates",
     "2024 Advent Calendar/par4wcwf.bmp",
-    "2024 Advent Calendar/svzx3pyi.bmp",
     "2023 Advent Calendar/Images",
     "2023 Advent Calendar/images",
     "2024 Advent Calendar",
