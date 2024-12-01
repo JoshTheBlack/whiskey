@@ -12,7 +12,7 @@
 
 🏁: The finish is medium in length, leaving a mild yet satisfying warmth. Sweet notes of oak mingle with the lingering essence of blackberry, intertwined with delicate floral undertones.
 
-This expression from The Dalmore carries a hefty price tag, often exceeding $300. While the allure of the brand and the 18 years of aging contribute to the cost, the value proposition seems questionable.
+This expression from The Dalmore carries a hefty price tag, often exceeding `$300`. While the allure of the brand and the 18 years of aging contribute to the cost, the value proposition seems questionable.
 
 The whisky is "nurtured by hand" in a combination of American white oak ex-bourbon casks and 30-year-old Matusalem Oloroso Sherry casks. These exceptional sherry casks are required to hold sherry for at least 30 years, adding a unique dimension to the final product.
 
