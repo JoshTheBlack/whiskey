@@ -171,16 +171,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-04 Lagavulin.md",
+                "file": "2024 Advent Calendar/12-07 Craigellachie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-04 Lagavulin"
+              "title": "12-07 Craigellachie"
+            }
+          },
+          {
+            "id": "2bd0d2451eb3e9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Advent Calendar/12-08 Bunnahabhain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-08 Bunnahabhain"
+            }
+          },
+          {
+            "id": "e9871e45e9bcba7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-09 Tobermory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-09 Tobermory"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -252,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Advent Calendar/12-04 Lagavulin.md",
+                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +290,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12-04 Lagavulin"
+              "title": "Backlinks for 12-02 Hibiki Suntory Whisky"
             }
           },
           {
@@ -271,12 +299,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Advent Calendar/12-04 Lagavulin.md",
+                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12-04 Lagavulin"
+              "title": "Outgoing links from 12-02 Hibiki Suntory Whisky"
             }
           },
           {
@@ -346,16 +374,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a73b9cd502fdb1ce",
+  "active": "e9871e45e9bcba7e",
   "lastOpenFiles": [
+    "2024 Advent Calendar/12-08 Bunnahabhain.md",
     "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-    "2024 Advent Calendar/12-05 Bushmills.md",
-    "2024 Advent Calendar/12-04 Lagavulin.md",
     "2024 Advent Calendar/12-01 The Dalmore.md",
     "2024 Advent Calendar/12-03 Yellow Spot.md",
+    "12-09 Tobermory.md",
     "2024 Advent Calendar/12-07 Craigellachie.md",
-    "2024 Advent Calendar/Images/12-07.jpg",
+    "2024 Advent Calendar/Images/12-09.jpg",
+    "2024 Advent Calendar/Images/12-08.jpg",
     "2024 Advent Calendar/12-06 The Sexton.md",
+    "2024 Advent Calendar/12-05 Bushmills.md",
+    "2024 Advent Calendar/12-04 Lagavulin.md",
+    "2023 Advent Calendar/12-03 Kentucky Peerless Small Batch.md",
+    "2023 Advent Calendar/12-01 Balcones.md",
+    "2024 Advent Calendar/Images/12-07.jpg",
     "2024 Advent Calendar/Images/12-06.jpg",
     "2024 Advent Calendar/Images/Amazon.com - Order 112-2266420-4119442.pdf",
     "2023 Advent Calendar/12-24 Colonel EH Taylor Small Batch.md",
@@ -375,9 +409,6 @@
     "2023 Advent Calendar/12-14 James E Pepper 1776 Straight Rye.md",
     "2023 Advent Calendar/12-02 Elijah Craig Small Batch.md",
     "2023 Advent Calendar/12-13 Buffalo Trace.md",
-    "2023 Advent Calendar/12-12 Eagle Rare.md",
-    "2023 Advent Calendar/12-11 Sagamore Spirit Double Oak Straight Rye.md",
-    "2023 Advent Calendar/12-10 Four Roses Original.md",
     "2024 Advent Calendar/Images/calendar.png",
     "2024 Advent Calendar/Images/12-03.jpg",
     "2024 Advent Calendar/Images/12-02.jpg",
@@ -385,9 +416,7 @@
     "2024 Advent Calendar/Images",
     "Untitled",
     "New Text Document.txt",
-    "2024 Advent Calendar/rc8qkoy8.bmp",
     "Templates",
-    "2024 Advent Calendar/par4wcwf.bmp",
     "2023 Advent Calendar/Images",
     "2023 Advent Calendar/images",
     "2024 Advent Calendar",

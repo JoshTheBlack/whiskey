@@ -1,0 +1,15 @@
+![[12-09.jpg]]
+# Tobermory
+## 12 Year Old Single Malt Scotch Whisky
+#### 46.3% ABV
+👁: A pale, ethereal gold, reminiscent of freshly pressed apple juice, with a luminous clarity. The whisky dances in the glass, leaving behind swift, slender legs that race down the sides.
+
+👃:  A vibrant bouquet greets the nose, led by the crisp sweetness of green apple jelly and the zesty brightness of lemon. These are soon enveloped by a wave of salted caramel, its buttery richness mingling with a distinct sea breeze, evoking images of coastal walks on a sunny day. A comforting aroma of freshly baked buttery cookies emerges, followed by the scent of fine tobacco leaf. An undercurrent of salted peanuts adds a savory depth while a fleeting whisper of white gas adds a curious, almost industrial edge, quickly giving way to the scent of freshly sawn wood, like a carpenter's workshop. Delicate floral notes, reminiscent of a meadow of wildflowers in full bloom, add a touch of ethereal beauty. Finally, a grounding earthiness emerges, like freshly dug clay, moist and rich. 
+
+👅: The palate is immediately awakened by a lively interplay of salt and pepper, a dynamic duo that's quickly joined by the fiery sweetness of Atomic Fireball cinnamon candies, a nostalgic and exhilarating sensation. The distinct flavor of tobacco leaf returns, adding a layer of sophisticated smokiness. The mouthfeel is medium-thin. Hints of orange citrus and the buttery sweetness of toffee peek through. An intriguing note of aged, water-softened wood emerges, accompanied by the supple richness of worn leather, like a well-loved armchair. A pronounced saltiness pervades the experience, a constant reminder of the sea's influence. The refreshing coolness of green peppermint candies provides a surprising contrast.
+
+🏁:  A medium-short farewell that leaves a pleasant memory. The zesty brightness of citrus lingers, intertwined with the sugary sweetness of hard candy. A refreshing wave of freshly cut herbs, like a sprig of parsley or cilantro, adds a vibrant green note. A gentle warmth like chili pepper provides a subtle kick. The earthy combination of salty clay and tobacco returns, grounding the experience. A final whisper of mint leaves a cool, clean sensation on the palate, like a refreshing breeze.
+
+This unpeated single malt offers a journey of intriguing contrasts, a dance between sweet, salty, and spicy notes. While not overwhelmingly complex, it possesses a certain charm, a lightness of being that makes it quite enjoyable. Its unique character is undeniable. However, given its limited availability and the price point of `$120`, it might not be a whisky that finds a permanent place in every collection. It's a delightful enough dram, to be sure, but perhaps one enjoyed once rather than a regular indulgence.
+
+#singlemalt #whiskey 
