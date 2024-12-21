@@ -1,0 +1,15 @@
+![[12-22.jpg]]
+# Glenfiddich
+## 21 Year Old Gran Reserva SIngle Malt Scotch Whisky
+#### 40% ABV
+👁: The whisky presents itself in a captivating duality of colors – a pale, shimmering gold, like sunlight on a calm sea, interwoven with a deeper, ruddy amber, reminiscent of aged wood and glowing embers. It clings to the glass with remarkable tenacity, forming glacially thick, syrupy legs that descend with a slow, deliberate grace, promising a rich and viscous experience.
+
+👃:  A warm and inviting aroma wafts from the glass, a blend of sweet and earthy notes. The initial impression is one of malted barley intertwined with the ripe sweetness of banana, like a freshly baked banana bread. A creamy richness follows, subtly laced with a wisp of peat smoke. The scent of aged oak provides a grounding presence, complemented by the comforting aroma of brown sugar, like caramelized sweetness. Hints of spiced rum and a touch of vanilla bean add a layer of exotic complexity.
+
+👅: The palate is greeted with the unmistakable flavor of overripe Cavendish banana, a burst of tropical sweetness that immediately gives way to a surprising astringency, a tannic grip that tightens the mouth. This initial sweetness then transitions into a medley of caramel, rich tobacco, and the nutty depth of pecan, creating a complex tapestry of flavors. The essence of luxurious worn leather and the subtle smokiness of a dying fire add to the depth, while a jolt of chili pepper and the zing of ginger provide a spicy counterpoint, leaving a dry and tingling sensation.
+
+🏁: A long, lingering farewell that unfolds in stages. The dominant presence of oak is undeniable, like an old-growth forest, intertwined with the comforting sweetness of maple syrup. A spicy undercurrent of pepper persists, adding a touch of warmth, while a fleeting hint of citrus provides a brief, refreshing lift. As the finish progresses, it gently fades into a delicate sweetness, reminiscent of golden honey, mingled with the lingering notes of rum and leather, like a final, lingering embrace.
+
+This dram is a unique experience, a journey into a world of pronounced sweetness and contrasting textures. Its dominant banana and rum notes create an almost tropical profile, initially reminiscent of a well-aged rum rather than a traditional Scotch. The initial sweetness might be overwhelming for some, and indeed, it does seem to lean more towards the character of a fine rum than a classic whisky. If your palate favors the bold sweetness of a rum-forward spirit, then this might be a delightful discovery. However, for those seeking a more traditional Scotch experience, this expression might prove to be a bit of a departure from the expected. It's an interesting and certainly memorable dram, but one that will likely appeal to a specific niche of whisky drinkers.  With a price tag of `$309`, this whisky's value proposition hinges on a strong appreciation for its rum-like characteristics.
+
+#singlemalt #topshelf #scotch #whiskey #sweet

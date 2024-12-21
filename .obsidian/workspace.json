@@ -206,9 +206,37 @@
               "icon": "lucide-file",
               "title": "12-09 Tobermory"
             }
+          },
+          {
+            "id": "93ad91c02537c9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-22 Glenfiddich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-22 Glenfiddich"
+            }
+          },
+          {
+            "id": "1e4c4e3c5825ac4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Advent Calendar/12-10 Balvenie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-10 Balvenie"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -376,11 +404,15 @@
   },
   "active": "cce8af817dffa33b",
   "lastOpenFiles": [
+    "12-22 Glenfiddich.md",
+    "2024 Advent Calendar/12-10 Balvenie.md",
+    "2024 Advent Calendar/Images/12-10.jpg",
+    "2024 Advent Calendar/Images/12-22.jpg",
+    "2024 Advent Calendar/12-09 Tobermory.md",
     "2024 Advent Calendar/12-08 Bunnahabhain.md",
     "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
     "2024 Advent Calendar/12-01 The Dalmore.md",
     "2024 Advent Calendar/12-03 Yellow Spot.md",
-    "2024 Advent Calendar/12-09 Tobermory.md",
     "2024 Advent Calendar/12-07 Craigellachie.md",
     "2024 Advent Calendar/Images/12-09.jpg",
     "2024 Advent Calendar/Images/12-08.jpg",
@@ -407,12 +439,8 @@
     "2023 Advent Calendar/12-16 MB Roland Small Batch.md",
     "2023 Advent Calendar/12-15 Belmont Farm Kopper Kettle Bonded.md",
     "2023 Advent Calendar/12-14 James E Pepper 1776 Straight Rye.md",
-    "2023 Advent Calendar/12-02 Elijah Craig Small Batch.md",
-    "2023 Advent Calendar/12-13 Buffalo Trace.md",
     "2024 Advent Calendar/Images/calendar.png",
     "2024 Advent Calendar/Images/12-03.jpg",
-    "2024 Advent Calendar/Images/12-02.jpg",
-    "2024 Advent Calendar/Images/12-01.jpg",
     "2024 Advent Calendar/Images",
     "Untitled",
     "New Text Document.txt",
