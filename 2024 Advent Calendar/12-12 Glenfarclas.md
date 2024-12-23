@@ -12,6 +12,6 @@
 
 This single malt is a masterpiece of balance and subtlety, a whisky that whispers rather than shouts. Its delicate flavors and refined character are a testament to its age and masterful craftsmanship. While a slightly higher bottling strength might amplify its already impressive qualities, it stands as a near-perfect example of the distiller's art. However, the `$350` price tag does present a significant hurdle. While the quality is undeniable, the value proposition might be enhanced if the whisky offered a touch more intensity to match its premium cost. It's a dram to be savored and contemplated, a truly exceptional experience, but one that demands careful consideration given its price.
 
-#singlemalt #scotch #topshelf #top #excellent
+#singlemalt #scotch #topshelf #top #excellent #subtle
 
 

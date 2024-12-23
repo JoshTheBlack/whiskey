@@ -8,277 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d19f6af1b262423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 Advent Calendar/12-23 Blantons Gold Edition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-23 Blantons Gold Edition"
-            }
-          },
-          {
-            "id": "02f47c0d6ab2d73c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2024 Advent Calendar/Images/calendar.png"
-              },
-              "icon": "lucide-image",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "e3ce6dbf90978dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-01 The Dalmore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-01 The Dalmore"
-            }
-          },
-          {
-            "id": "da7e551dfe4d2662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-02 Hibiki Suntory Whisky"
-            }
-          },
-          {
-            "id": "bbcaba6e2343f68b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2024 Advent Calendar/Images/12-01.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "12-01"
-            }
-          },
-          {
-            "id": "4045570b369d1e2e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2024 Advent Calendar/Images/12-02.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "12-02"
-            }
-          },
-          {
-            "id": "f00fc707f1d24a49",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2024 Advent Calendar/Images/12-03.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "12-03"
-            }
-          },
-          {
-            "id": "93ffbd8ed55c90a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2024 Advent Calendar/Images/12-03.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "12-03"
-            }
-          },
-          {
-            "id": "b999c892169defc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-02 Hibiki Suntory Whisky"
-            }
-          },
-          {
-            "id": "e94a8bed8f218489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-04 Lagavulin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-04 Lagavulin"
-            }
-          },
-          {
-            "id": "9e9b4d065a07ac38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-05 Bushmills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-05 Bushmills"
-            }
-          },
-          {
-            "id": "e2e5553faa8974f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-06 The Sexton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-06 The Sexton"
-            }
-          },
-          {
-            "id": "a73b9cd502fdb1ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-07 Craigellachie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-07 Craigellachie"
-            }
-          },
-          {
-            "id": "2bd0d2451eb3e9c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-08 Bunnahabhain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-08 Bunnahabhain"
-            }
-          },
-          {
-            "id": "e9871e45e9bcba7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-09 Tobermory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-09 Tobermory"
-            }
-          },
-          {
-            "id": "93ad91c02537c9bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12-22 Glenfiddich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-22 Glenfiddich"
-            }
-          },
-          {
-            "id": "1e4c4e3c5825ac4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-10 Balvenie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-10 Balvenie"
-            }
-          },
-          {
-            "id": "53fe02995c223178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-11 Talisker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-11 Talisker"
-            }
-          },
-          {
-            "id": "c100954d004a4ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-11 Talisker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-11 Talisker"
-            }
-          },
-          {
             "id": "f25e100eb2b7277f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-22 Glenfiddich.md",
+                "file": "2024 Advent Calendar/12-14 Highland Park.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-22 Glenfiddich"
+              "title": "12-14 Highland Park"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -444,44 +187,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cce8af817dffa33b",
+  "active": "f25e100eb2b7277f",
   "lastOpenFiles": [
+    "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
     "2024 Advent Calendar/12-12 Glenfarclas.md",
-    "2024 Advent Calendar/12-03 Yellow Spot.md",
-    "2024 Advent Calendar/12-00 The Calendar.md",
-    "Templates/new note.md",
+    "2024 Advent Calendar/12-13 Laphroaig.md",
+    "2024 Advent Calendar/12-14 Highland Park.md",
+    "2024 Advent Calendar/Images/12-13.jpg",
+    "12-22 Glenfiddich.md",
+    "2024 Advent Calendar/Images/12-14.jpg",
     "2024 Advent Calendar/12-11 Talisker.md",
     "2024 Advent Calendar/12-10 Balvenie.md",
-    "2024 Advent Calendar/Images/12-10.jpg",
-    "2024 Advent Calendar/Images/12-09.jpg",
-    "2024 Advent Calendar/Images/12-11.jpg",
     "2024 Advent Calendar/12-09 Tobermory.md",
     "2024 Advent Calendar/12-08 Bunnahabhain.md",
-    "2024 Advent Calendar/Images/12-08.jpg",
-    "2024 Advent Calendar/Images/12-12.jpg",
-    "12-22 Glenfiddich.md",
-    "2024 Advent Calendar/Images/12-22.jpg",
-    "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-    "2024 Advent Calendar/12-01 The Dalmore.md",
     "2024 Advent Calendar/12-07 Craigellachie.md",
     "2024 Advent Calendar/12-06 The Sexton.md",
     "2024 Advent Calendar/12-05 Bushmills.md",
     "2024 Advent Calendar/12-04 Lagavulin.md",
+    "2024 Advent Calendar/Images/12-03.jpg",
+    "2024 Advent Calendar/Images/12-02.jpg",
+    "2024 Advent Calendar/Images/12-01.jpg",
+    "2024 Advent Calendar/12-03 Yellow Spot.md",
+    "2024 Advent Calendar/12-00 The Calendar.md",
+    "Templates/new note.md",
+    "2024 Advent Calendar/Images/12-10.jpg",
+    "2024 Advent Calendar/Images/12-09.jpg",
+    "2024 Advent Calendar/Images/12-11.jpg",
+    "2024 Advent Calendar/Images/12-08.jpg",
+    "2024 Advent Calendar/Images/12-12.jpg",
+    "2024 Advent Calendar/12-01 The Dalmore.md",
     "2023 Advent Calendar/12-03 Kentucky Peerless Small Batch.md",
     "2023 Advent Calendar/12-01 Balcones.md",
-    "2024 Advent Calendar/Images/12-07.jpg",
-    "2024 Advent Calendar/Images/12-06.jpg",
     "2024 Advent Calendar/Images/Amazon.com - Order 112-2266420-4119442.pdf",
     "2023 Advent Calendar/12-24 Colonel EH Taylor Small Batch.md",
     "2023 Advent Calendar/12-19 Seelbachs Private Reserve Batch 3.md",
-    "2024 Advent Calendar/Images/12-05.jpg",
-    "2024 Advent Calendar/Images/12-04.jpg",
     "2023 Advent Calendar/12-23 Blantons Gold Edition.md",
     "2023 Advent Calendar/12-22 Blackened-Blend.md",
     "2023 Advent Calendar/12-21 Willets Pot Still Reserve Single Barrel.md",
     "2023 Advent Calendar/12-20 Wilderness Trail Single Barrel.md",
-    "2023 Advent Calendar/12-07 Boulder Spirits American Single Malt.md",
-    "2023 Advent Calendar/12-18 Rowans Creek Small Batch.md",
     "2024 Advent Calendar/Images",
     "Untitled",
     "New Text Document.txt",

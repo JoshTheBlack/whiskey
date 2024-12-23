@@ -21,4 +21,4 @@ The exceptionally light color may initially surprise those accustomed to the dee
 
 With an average price hovering around `$100`, the value proposition leans towards the higher end. However, the complexity, balance, and unique character of this Japanese blended whisky make it a worthwhile consideration for enthusiasts seeking something distinctive. Discovering a bottle priced below `$80` would undoubtedly present an irresistible opportunity.
 
-#bourbon #whiskey #blend #japanese
+#bourbon #whiskey #blend #japanese #subtle
