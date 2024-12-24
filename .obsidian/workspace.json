@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b743c6a0dc76466",
+  "active": "170119696c885ee6",
   "lastOpenFiles": [
-    "2024 Advent Calendar/12-00 The Calendar.md",
     "12-18 Loch Lomond.md",
+    "2024 Advent Calendar/12-00 The Calendar.md",
     "2024 Advent Calendar/12-17 Bruichladdich.md",
     "2024 Advent Calendar/Images/12-18.jpg",
     "2024 Advent Calendar/Images/12-17.jpg",

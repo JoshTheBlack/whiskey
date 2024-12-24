@@ -10,8 +10,6 @@
 
 🏁: The finish is on the shorter side, a fleeting moment compared to the complexity of the nose and palate. A gentle earthiness and a delicate floral note provide a brief moment of calm before the ethanol makes its presence known, lingering with a warmth that outlasts the other flavors.
 
-**Overall Impression:**
-
 This single malt is a study in contrasts, a whisky that self-contradicts with its unusual combination of flavors and aromas. Priced at $55, it represents a solid value, offering a unique experience that's well worth exploring. While the relatively short finish might leave some wanting more, it's an otherwise well-crafted dram. You could certainly do worse at this price point, and for those who prefer their Scotch unpeated, this whisky is well worth the money. Its unconventional profile makes it a memorable and rewarding experience.
 
 #islay #singlemalt #scotch #whiskey #unpeated #value
