@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-17 Bruichladdich.md",
+                "file": "2024 Advent Calendar/12-18 Loch Lomond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-17 Bruichladdich"
+              "title": "12-18 Loch Lomond"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-18 Loch Lomond.md",
+                "file": "2024 Advent Calendar/12-18 Loch Lomond.md",
                 "mode": "source",
                 "source": false
               },
@@ -246,9 +246,9 @@
   },
   "active": "170119696c885ee6",
   "lastOpenFiles": [
-    "12-18 Loch Lomond.md",
-    "2024 Advent Calendar/12-00 The Calendar.md",
     "2024 Advent Calendar/12-17 Bruichladdich.md",
+    "2024 Advent Calendar/12-18 Loch Lomond.md",
+    "2024 Advent Calendar/12-00 The Calendar.md",
     "2024 Advent Calendar/Images/12-18.jpg",
     "2024 Advent Calendar/Images/12-17.jpg",
     "2024 Advent Calendar/12-16 Wormtub.md",
