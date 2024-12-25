@@ -1,0 +1,15 @@
+![[12-23.jpg]]
+# Mo̲rtlach
+## 16 Year Old Single Malt Scotch Whisky
+#### 43.4% ABV
+👁: A captivating burnished copper, enriched with ruddy hues that suggest depth and complexity. The whisky exhibits long, thick legs that initially descend with a slow, deliberate pace, then pick up speed as they gracefully trace the contours of the glass, hinting at a rich texture.
+
+👃: The nose is initially greeted with a wave of rich, leathery notes, intertwined with the sweetness of dates and the grounding presence of aged oak. A comforting aroma of vanilla emerges, followed by a vibrant burst of strawberry jam, its sweetness balanced by the warm spice of cinnamon. A layer of dried leaves adds an autumnal touch. The fruitier notes of apricot, crisp apple, and zesty lemon are more elusive, requiring patience and time to coax out. Only after resting for about 20 minutes do these delicate aromas begin to reveal themselves, like hidden treasures uncovered with each swirl of the glass. 
+
+👅: The whisky envelops the palate with a remarkably thick and creamy mouthfeel, a luxurious sensation that immediately commands attention. A bold spiciness takes center stage upfront, a spark of hot white peppercorn ignites the taste buds. Notes of malt and the earthy sweetness of maple sap emerge, followed by a hoppy bitterness. A medley of purple fruits—dates, raisins, and black cherry—adds depth and richness, while subtle savory notes provide a fascinating counterpoint. A faint herbal quality, reminiscent of a delicate, almost homeopathic green tea, adds an intriguing layer. The whisky's age is apparent in a subtle dusty note, a whisper of time and maturation.
+
+🏁: A long and rather hot finish unfolds, leaving a lasting impression. The fiery white peppercorn note persists, its heat lingering on the palate as the flavors evolve through stages of dates and raisins, a touch of bitter orange, the sweetness of maple, the earthiness of tobacco, and a final whisper of herbal tea. The finish is a dynamic journey, a testament to the whisky's complexity.
+
+This single malt is a bold and assertive whisky, characterized by its intense spiciness and rich, layered flavors. While it lacks overt sweetness, it compensates with a powerful punch of spice and a viscous, almost fatty mouthfeel that's undeniably pleasant. The heat on the finish is pronounced, reminiscent of the fiery sensation of wasabi. The only minor drawback is the initial ethanol-forward nature of the nose, which requires a significant breathing time to unlock its more subtle aromatic secrets. It's remarkable that a whisky bottled at 43.4% ABV retains such a noticeable heat. However, this intensity is part of its charm, contributing to its unique character. At $115, this whisky represents an excellent value, offering a complex and rewarding experience that's well worth the price. It's a dram that demands attention and respect, a whisky that will undoubtedly appeal to those who appreciate bold flavors and a lingering, fiery finish.
+
+#singlemalt #scotch #whiskey #top #value

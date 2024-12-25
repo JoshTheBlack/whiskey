@@ -12,4 +12,4 @@
 
 This single malt is a truly phenomenal whisky, a masterpiece of balance, complexity, and artistry. The palate is a near-perfect reprisal of the nose, itself a beautiful melody of scents. While the industrial note on the nose might seem out of place, it's a fleeting prelude to a symphony of flavor. The finish is where this whisky truly shines. It masterfully resolves the aromas presented on the nose, in a perfectly executed cadence. It's like the final, satisfying tonic chord in a complex and beautiful symphony. At $390, this whisky is undoubtedly a luxurious indulgence, but for those who can afford it, it's an experience that's not to be missed. It's a whisky that deserves to be savored, contemplated, and celebrated, a true testament to the art of distillation.
 
-#singlemalt #scotch #whisky #topshelf #top 
+#singlemalt #scotch #whiskey #topshelf #top 
