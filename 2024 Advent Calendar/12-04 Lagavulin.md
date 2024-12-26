@@ -25,5 +25,5 @@ The resulting wash undergoes a double distillation process in copper pot stills,
 
 Finally, the spirit is matured for a minimum of 16 years in ex-bourbon American oak casks, followed by a finishing period in ex-sherry casks, adding further depth and complexity.
 
-#scotch #whiskey #singlemalt #buy #topshelf 
+#scotch #whiskey #singlemalt #buy #topshelf #top
 
