@@ -13,71 +13,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-23 Mo̲rtlach.md",
+                "file": "Templates/new note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-23 Mo̲rtlach"
+              "title": "new note"
             }
           },
           {
-            "id": "9187a82fee5c8c6b",
+            "id": "19cf910afc0c489d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2025 Advent Calendar/images/12-01.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "12-01"
+            }
+          },
+          {
+            "id": "8d97ae6b326f418c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "0d50d2a964824000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Advent Calendar/12-13 Laphroaig.md",
+                "file": "Templates/12-07 15 Stars First West.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-13 Laphroaig"
+              "title": "12-07 15 Stars First West"
             }
           },
           {
-            "id": "dd8bb7384f48e9b3",
+            "id": "330497aef020442d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "2024 Advent Calendar/12-16 Wormtub.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.6"
               },
-              "icon": "lucide-file",
-              "title": "12-16 Wormtub"
-            }
-          },
-          {
-            "id": "7a12ee7279f5c98f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-20 The Glenlivet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-20 The Glenlivet"
-            }
-          },
-          {
-            "id": "ca9f3f0deab9a18e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Advent Calendar/12-04 Lagavulin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-04 Lagavulin"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +91,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -234,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -243,12 +240,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92692b46121810df",
+  "active": "cce8af817dffa33b",
   "lastOpenFiles": [
+    "2025 Advent Calendar/images/IMG_20240611_142542.jpg",
+    "Templates/12-06 Kujira Kyojin.md",
+    "Templates/12-07 15 Stars First West.md",
+    "Templates/12-05 Oaklore Four Grain.md",
+    "Templates/12-04 Chicken Cock Small Batch.md",
+    "Templates/12-03 Loch Lomond 12.md",
+    "2025 Advent Calendar/12-02 SirDavis American Rye Whisky.md",
+    "2025 Advent Calendar/12-01 Bhakta 1928 Golden Age Blend.md",
+    "2025 Advent Calendar/images/12-07.jpg",
+    "2025 Advent Calendar/images/12-06.jpg",
+    "2025 Advent Calendar/images/12-05.jpg",
+    "2025 Advent Calendar/images/12-04.jpg",
+    "2025 Advent Calendar/images/12-03.jpg",
+    "2024 Advent Calendar/12-18 Loch Lomond.md",
+    "2025 Advent Calendar/images/12-02.jpg",
+    "Templates/new note.md",
+    "README.md",
+    "2025 Advent Calendar/images/12-01.jpg",
+    "2025 Advent Calendar/images",
+    "2025 Advent Calendar/New folder",
+    "2024 Advent Calendar/12-01 The Dalmore.md",
+    "2024 Advent Calendar/12-23 Mo̲rtlach.md",
+    "2025 Advent Calendar",
     "2024 Advent Calendar/12-04 Lagavulin.md",
     "2024 Advent Calendar/12-20 The Glenlivet.md",
     "2024 Advent Calendar/12-22 Glenfiddich.md",
-    "2024 Advent Calendar/12-23 Mo̲rtlach.md",
     "2024 Advent Calendar/12-12 Glenfarclas.md",
     "2024 Advent Calendar/12-16 Wormtub.md",
     "2024 Advent Calendar/12-13 Laphroaig.md",
@@ -259,36 +278,15 @@
     "2024 Advent Calendar/12-15 Johnny Walker Blue.md",
     "2024 Advent Calendar/12-14 Highland Park.md",
     "2024 Advent Calendar/12-17 Bruichladdich.md",
-    "2024 Advent Calendar/12-18 Loch Lomond.md",
     "2024 Advent Calendar/12-19 The Hakushu.md",
     "2024 Advent Calendar/12-21 Glen Scotia.md",
-    "2024 Advent Calendar/12-00 The Calendar.md",
     "2024 Advent Calendar/Images/12-21.jpg",
-    "2024 Advent Calendar/Images/12-23.jpg",
-    "2024 Advent Calendar/12-07 Craigellachie.md",
-    "2024 Advent Calendar/12-11 Talisker.md",
-    "2024 Advent Calendar/12-10 Balvenie.md",
-    "2024 Advent Calendar/12-09 Tobermory.md",
-    "2024 Advent Calendar/12-08 Bunnahabhain.md",
-    "2024 Advent Calendar/12-06 The Sexton.md",
-    "2024 Advent Calendar/12-05 Bushmills.md",
-    "2024 Advent Calendar/12-03 Yellow Spot.md",
-    "2024 Advent Calendar/12-02 Hibiki Suntory Whisky.md",
-    "2024 Advent Calendar/Images/12-20.jpg",
-    "2024 Advent Calendar/Images/12-19.jpg",
-    "2024 Advent Calendar/Images/12-18.jpg",
-    "2024 Advent Calendar/Images/12-17.jpg",
-    "2024 Advent Calendar/Images/12-16.jpg",
-    "2024 Advent Calendar/Images/12-15.jpg",
     "2024 Advent Calendar/Images/Amazon.com - Order 112-2266420-4119442.pdf",
     "2024 Advent Calendar/Images",
-    "Untitled",
     "New Text Document.txt",
     "Templates",
     "2023 Advent Calendar/Images",
     "2023 Advent Calendar/images",
-    "2024 Advent Calendar",
-    "2023 Advent Calendar",
-    "netlify.toml"
+    "2024 Advent Calendar"
   ]
 }

@@ -1,4 +1,4 @@
-![[12-05.jpg]]
+![[2024 Advent Calendar/Images/12-05.jpg]]
 # Bushmills
 ## 21 Year Old Single Malt Irish Whiskey
 #### 40% ABV
