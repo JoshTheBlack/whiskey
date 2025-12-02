@@ -32,47 +32,9 @@
               "icon": "lucide-image",
               "title": "12-01"
             }
-          },
-          {
-            "id": "8d97ae6b326f418c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "0d50d2a964824000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/12-07 15 Stars First West.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-07 15 Stars First West"
-            }
-          },
-          {
-            "id": "330497aef020442d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,11 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8ddd639c577a1eb",
+  "active": "19cf910afc0c489d",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/12-07 15 Stars First West.md",
     "2025 Advent Calendar/images/IMG_20240611_142542.jpg",
     "Templates/12-06 Kujira Kyojin.md",
-    "Templates/12-07 15 Stars First West.md",
     "Templates/12-05 Oaklore Four Grain.md",
     "Templates/12-04 Chicken Cock Small Batch.md",
     "Templates/12-03 Loch Lomond 12.md",
@@ -258,7 +221,6 @@
     "2024 Advent Calendar/12-18 Loch Lomond.md",
     "2025 Advent Calendar/images/12-02.jpg",
     "Templates/new note.md",
-    "README.md",
     "2025 Advent Calendar/images/12-01.jpg",
     "2025 Advent Calendar/images",
     "2025 Advent Calendar/New folder",
@@ -280,7 +242,6 @@
     "2024 Advent Calendar/12-17 Bruichladdich.md",
     "2024 Advent Calendar/12-19 The Hakushu.md",
     "2024 Advent Calendar/12-21 Glen Scotia.md",
-    "2024 Advent Calendar/Images/12-21.jpg",
     "2024 Advent Calendar/Images/Amazon.com - Order 112-2266420-4119442.pdf",
     "2024 Advent Calendar/Images",
     "New Text Document.txt",
