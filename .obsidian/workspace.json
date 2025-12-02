@@ -25,12 +25,14 @@
             "id": "19cf910afc0c489d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2025 Advent Calendar/images/12-01.jpg"
+                "file": "2025 Advent Calendar/12-01 Bhakta 1928 Golden Age Blend.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "12-01"
+              "icon": "lucide-file",
+              "title": "12-01 Bhakta 1928 Golden Age Blend"
             }
           }
         ],
@@ -204,13 +206,14 @@
   },
   "active": "19cf910afc0c489d",
   "lastOpenFiles": [
+    "Templates/12-03 Loch Lomond 12.md",
+    "2025 Advent Calendar/images/12-01.jpg",
     "README.md",
     "Templates/12-07 15 Stars First West.md",
     "2025 Advent Calendar/images/IMG_20240611_142542.jpg",
     "Templates/12-06 Kujira Kyojin.md",
     "Templates/12-05 Oaklore Four Grain.md",
     "Templates/12-04 Chicken Cock Small Batch.md",
-    "Templates/12-03 Loch Lomond 12.md",
     "2025 Advent Calendar/12-02 SirDavis American Rye Whisky.md",
     "2025 Advent Calendar/12-01 Bhakta 1928 Golden Age Blend.md",
     "2025 Advent Calendar/images/12-07.jpg",
@@ -221,7 +224,6 @@
     "2024 Advent Calendar/12-18 Loch Lomond.md",
     "2025 Advent Calendar/images/12-02.jpg",
     "Templates/new note.md",
-    "2025 Advent Calendar/images/12-01.jpg",
     "2025 Advent Calendar/images",
     "2025 Advent Calendar/New folder",
     "2024 Advent Calendar/12-01 The Dalmore.md",
