@@ -11,3 +11,5 @@
 🏁: Pretty short finish. Mostly a chocolate stout flavor with that little bit of cinnamon spice at the end.
 
 This one is made from **100% malted barley**. If you're a fan of chocolate stout and bourbon, this is definitely one you should try. They describe it as: **"Brewed like a craft ale, Distilled like a single malt, Aged like a bourbon,"** and I can see all of that playing a part here. It's not my typical jam, and I think it could use a little more proof, but I really enjoyed its unique, chocolatey vibe. I'd absolutely have another glass.
+
+#chocolate
